@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Gon",
+    "lastName": "Freecss",
+    "age": "12"
+  },
+  {
+    "firstName": "Killua",
+    "lastName": "Zoldyck",
+    "age": "12"
+  },
+  {
+    "firstName": "Kurapika",
+    "lastName": "sato",
+    "age": "18"
+  },
+  {
+    "firstName": "Leorio",
+    "lastName": "ito",
+    "age": "20"
+  },
+  {
+    "firstName": "Hisoka",
+    "lastName": "saito",
+    "age": "24"
+  },
+  {
+    "firstName": "Sillva",
+    "lastName": "Zoldyck",
+    "age": "47"
+  },
+  {
+    "firstName": "Yellmi",
+    "lastName": "Zoldyck",
+    "age": "25"
+  },
+  {
+    "firstName": "Myllki",
+    "lastName": "Zoldyck",
+    "age": "19"
+  },
+  {
+    "firstName": "Calltt",
+    "lastName": "Zoldyck",
+    "age": "10"
+  },
+  {
+    "firstName": "Allka",
+    "lastName": "Zoldyck",
+    "age": "11"
+  },
+  {
+    "firstName": "Yuta",
+    "lastName": "Shoji",
+    "age": "24"
+  },
+  {
+    "firstName": "Nobita",
+    "lastName": "Nobi",
+    "age": "11"
+  }
+]
