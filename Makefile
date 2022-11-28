@@ -1,5 +1,5 @@
 start:
-	./gradlew bootrun
+	source .env && ./gradlew bootrun
 
 hello:
 	echo hello
